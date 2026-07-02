@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "studentId": "STU-2200",
+      "name": "Aanya Nair",
+      "dept": "Computer Science",
+      "year": "Year 2",
+      "gender": "Female",
+      "status": "ACTIVE"
+    },
+    {
+      "id": "2",
+      "studentId": "STU-2201",
+      "name": "Rahul Kumar",
+      "dept": "Mechanical",
+      "year": "Year 3",
+      "gender": "Male",
+      "status": "INACTIVE"
+    },
+    {
+      "studentId": "STU-2202",
+      "name": "Mohana Murthy P",
+      "email": "mohanmovin22@gmail.com",
+      "phone": "09360633022",
+      "gender": "Male",
+      "dob": "2003-10-22",
+      "dept": "Mechanical",
+      "year": "Year 1",
+      "address": "No./5,Anthoniyar kovil street,M.G Nagar,Tharamani,Chennai-600113",
+      "status": "ACTIVE",
+      "id": "7xmKkC7Axwg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
