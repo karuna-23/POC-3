@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import axios from "axios";
-import form  from "./RegisterStudent";
+import RegisterStudent from "./Form";
 import './App.css'
 
 function App() {
